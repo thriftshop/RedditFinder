@@ -38,4 +38,4 @@ To install the app, run at the command line:
  
 ```
 ./gradlew clean instalDebug
-```# RedditFinder
+```

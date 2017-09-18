@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="reddit_image" />
+    <item type="id" name="reddit_search_text_view" />
+    <item type="id" name="finder_search_bar" />
+    <item type="id" name="finder_progress_bar" />
+
+    <item type="id" name="reddit_image_small" />
+    <item type="id" name="searched_text_view" />
+    <item type="id" name="search_result_list" />
+    <item type="id" name="display_results_search_bar" />
+    <item type="id" name="display_results_progress_bar" />
+
+    <item type="id" name="score" />
+    <item type="id" name="question" />
+    <item type="id" name="author" />
+
+    <item type="id" name="submission_web_page_view" />
+</resources>

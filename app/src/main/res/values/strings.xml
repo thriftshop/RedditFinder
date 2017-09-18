@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RedditFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">hello_world</string>
+    <string name="search_here">Start Typing …</string>
+    <string name="searched_results">Results for searched text </string>
+    <string name="reddit_search_tag">Search in Reddit</string>
+    <string name="reddit_logo">Reddit Logo</string>
+</resources>
